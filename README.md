@@ -25,3 +25,17 @@
 ### Give role for Decribeinstance, Describevolume, Describesnapshots and deletesnapshots
 
 ![Screenshot 2024-03-19 225932](https://github.com/Tanay03Trivedi/costoptimization-using-lambda/assets/160705084/e3b54b88-f027-4402-8902-034e4e99a72f)
+
+### Delete Instence
+
+![Screenshot 2024-03-19 230119](https://github.com/Tanay03Trivedi/costoptimization-using-lambda/assets/160705084/0274c77d-abae-4aea-9bae-7386dfa3048c)
+
+![Screenshot 2024-03-19 230147](https://github.com/Tanay03Trivedi/costoptimization-using-lambda/assets/160705084/d8b9984a-6b44-4ad5-b749-d0e4ac552c0f)
+
+![Screenshot 2024-03-19 230157](https://github.com/Tanay03Trivedi/costoptimization-using-lambda/assets/160705084/2da23636-9b25-4b27-b944-c2c55ad36fee)
+
+### Invoke code amd see the snapshots is deleted or not
+
+![Screenshot 2024-03-19 230253](https://github.com/Tanay03Trivedi/costoptimization-using-lambda/assets/160705084/39ff153a-860e-489e-98a3-371c00f1a345)
+
+![Screenshot 2024-03-19 230327](https://github.com/Tanay03Trivedi/costoptimization-using-lambda/assets/160705084/01148721-6331-4f8a-90d5-84d0cf957d92)
