@@ -17,3 +17,11 @@
 ### Deploy code in lambda function
 
 ![Screenshot 2024-03-19 225519](https://github.com/Tanay03Trivedi/costoptimization-using-lambda/assets/160705084/c2ecd59f-75a1-4143-bf69-7d0853f4a411)
+
+### Increase timeout by 5 sec in General Configuration
+
+![Screenshot 2024-03-19 225636](https://github.com/Tanay03Trivedi/costoptimization-using-lambda/assets/160705084/839eae1d-1173-47c2-8d4e-9f44949b81af)
+
+### Give role for Decribeinstance, Describevolume, Describesnapshots and deletesnapshots
+
+![Screenshot 2024-03-19 225932](https://github.com/Tanay03Trivedi/costoptimization-using-lambda/assets/160705084/e3b54b88-f027-4402-8902-034e4e99a72f)
