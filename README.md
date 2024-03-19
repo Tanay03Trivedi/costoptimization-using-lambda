@@ -1,4 +1,4 @@
-# Costoptimization-using-lambda
+# Cost Optimization using Lambdaa Function
 
 ### EC2 Creaction
 
