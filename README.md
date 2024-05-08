@@ -14,7 +14,7 @@
 
 ![Screenshot 2024-03-19 215319](https://github.com/Tanay03Trivedi/costoptimization-using-lambda/assets/160705084/a4733572-7c22-492c-b62c-0146649e7366)
 
-### Deploy code in lambda function
+### Deploy code in lambda function (This code is made from AWS SDK for Python 'Boto3')
 
 ![Screenshot 2024-03-19 225519](https://github.com/Tanay03Trivedi/costoptimization-using-lambda/assets/160705084/c2ecd59f-75a1-4143-bf69-7d0853f4a411)
 
